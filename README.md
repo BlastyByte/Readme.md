@@ -1,8 +1,6 @@
 # Hello, I'm Leah
 <a href="https://linkedin.com/leah-budge-5622ba32b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction]
-
 Cybersecurity Student & Aspiring Cryptographer
 
 Dedicated technology enthusiast currently pursuing a BSc in Cybersecurity. Equipped with strong programming fundamentals and a deep academic and practical interest in cryptography, identity management, and secure architecture. Eager to apply analytical problem-solving skills to real-world security challenges.
