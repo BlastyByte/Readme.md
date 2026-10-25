@@ -1,59 +1,53 @@
 # Hello, I'm Leah
 <a href="https://www.linkedin.com/in/leah-budge-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Cybersecurity Student & Aspiring Cryptographer
+Cybersecurity Student | Aspiring Security Analyst
 
-Dedicated technology enthusiast currently pursuing a BSc in Cybersecurity. Equipped with strong programming fundamentals and a deep academic and practical interest in cryptography, identity management, and secure architecture. Eager to apply analytical problem-solving skills to real-world security challenges.
+Dedicated technology enthusiast currently pursuing a BSc (Hons) in Cyber Security at the University of Derby. Equipped with hands-on experience in enterprise network design, network security and traffic analysis, and programming fundamentals. Eager to apply analytical problem-solving skills to real-world security challenges through a placement year.
 
 ## Objective
 
-Career Objective: To secure a Tier 1 SOC Analyst role as the foundational first step in a long-term trajectory toward Chief Information Security Officer (CISO). Committed to mastering the operational trenches of incident response and cryptography early in my career to eventually bridge deep technical defense with high-level security strategy and risk management.
+To secure a cyber security placement year where I can build practical experience in network defence, traffic analysis, and secure system design — the foundation for a long-term career in security operations and, ultimately, security leadership.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | Associated Project |
+|-------|--------------------|
+| Enterprise Network Design (VLANs, subnetting, routing) | Network and Security Module — Part A |
+| Network Traffic Analysis & Attack Detection (Wireshark) | Network and Security Module — Part B |
+| Encryption Comparison & Traffic Filtering | Network and Security Module — Part B |
+| Programming & Game Logic (Java) | Wheel of Fortune Game |
+| Front-end Web Development (HTML, CSS, JavaScript) | Pizza UNO Sunderland |
+| Data Structures, Algorithms & Database Design | Computer Systems Module |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+### Networking & Security
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+### Programming & Web
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### SIEM
+### Data
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Access-A4373A?&style=for-the-badge&logo=microsoftaccess&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+
+Currently working toward industry certifications — none completed yet.
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
+- **Enterprise Network Design & Security** — Designed an 80-PC enterprise network (subnetting, routing, VLANs) and analysed traffic with Wireshark to detect and defend against faults and malicious activity.
+- **Wheel of Fortune Game (Java)** — Programmed a playable game with full game logic, scoring, and input validation.
+- **Pizza UNO Sunderland Website** — Analysed a live client site and implemented front-end improvements in HTML, CSS, and JavaScript.
+- **Data Structures, Algorithms & Database Design** — Portfolio of lab exercises plus a data engineering solution design.
