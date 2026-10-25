@@ -1,5 +1,5 @@
 # Hello, I'm Leah
-<a href="https://linkedin.com/leah-budge-5622ba32b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/leah-budge-cyber"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity Student & Aspiring Cryptographer
 
